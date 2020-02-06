@@ -26,10 +26,12 @@
 .searchBar-icon2 {
   flex: 1.4;
   opacity: 0.5;
+  cursor: pointer;
 }
 .searchBar-icon3 {
   flex: 1.4;
   color: #4285f4;
+  cursor: pointer;
 }
 .searchBar-input {
   flex: 15;

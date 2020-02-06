@@ -43,10 +43,10 @@ const SearchBar = () => {
           />
         </div>
         <div className="searchBar-icon2 searchBar-content">
-          <FontAwesomeIcon icon={faKeyboard} />
+          <FontAwesomeIcon icon={faKeyboard} title="입력 도구" />
         </div>
         <div className="searchBar-icon3 searchBar-content">
-          <FontAwesomeIcon icon={faMicrophone} />
+          <FontAwesomeIcon icon={faMicrophone} title="음성 검색" />
         </div>
       </div>
       <div className="buttons">
